@@ -107,6 +107,7 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h1>Thanks</h1>
+    <h2>this is python sample code</h2>
   </div>
   
   <div class="linksColumn"> 
